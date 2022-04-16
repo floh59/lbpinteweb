@@ -1,4 +1,4 @@
-# lbpinteweb
+# lbpintewebdoc
 
 ## Setup
 
