@@ -1,10 +1,11 @@
 {
-  "title": "Nuxt Content",
+  "title": "LBP Inté Web",
   "url": "",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo-blancheporte-dark.svg",
+    "dark": "/logo-blancheporte-white.svg"
   },
   "github": "floh59",
-  "twitter": "floh59"
+  "twitter": "floh59",
+  "facebook": "blancheporte"
 }

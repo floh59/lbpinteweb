@@ -6,10 +6,8 @@ category: Homepage
 ---
 
 ## OBI1
-<nuxt-img src="/obi1.jpg" class="light-img" width="800" height="auto" loading="lazy"></nuxt-img>
-<nuxt-img src="/obi1.jpg" class="dark-img" width="800" height="auto" loading="lazy"></nuxt-img>
-<img src="/obi1.jpg" class="light-img" width="1280" height="640" alt=""/>
-<img src="/obi1.jpg" class="dark-img" width="1280" height="640" alt=""/>
+<nuxt-img src="/homepage/obi1.jpg" class="light-img" width="800" height="300" loading="lazy"></nuxt-img>
+<nuxt-img src="/homepage/obi1.jpg" class="dark-img" width="800" height="300" loading="lazy"></nuxt-img>
 
 ### HTML / CSS - OBI1
 
@@ -309,10 +307,8 @@ category: Homepage
 
 ## OBI2
 
-<nuxt-img src="/obi2.jpg" class="light-img" width="800" height="auto" loading="lazy"></nuxt-img>
-<nuxt-img src="/obi2.jpg" class="dark-img" width="800" height="auto" loading="lazy"></nuxt-img>
-<img src="/obi2.jpg" class="light-img" width="1280" height="640" alt=""/>
-<img src="/obi2.jpg" class="dark-img" width="1280" height="640" alt=""/>
+<nuxt-img src="/homepage/obi2.jpg" class="light-img" width="800" height="auto" loading="lazy"></nuxt-img>
+<nuxt-img src="/homepage/obi2.jpg" class="dark-img" width="800" height="auto" loading="lazy"></nuxt-img>
 
 ### HTML / CSS - OBI2
 
