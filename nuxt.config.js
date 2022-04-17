@@ -19,5 +19,6 @@ export default theme({
   ],
   css: [
     './assets/css/global.css'
-  ]
+  ],
+  target: 'serverless'
 })
