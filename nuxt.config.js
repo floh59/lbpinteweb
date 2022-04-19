@@ -16,8 +16,14 @@ export default theme({
   },
   buildModules: [
     '@nuxt/image',
+    '@nuxtjs/pwa',
   ],
   css: [
     './assets/css/global.css'
-  ]
+  ],
+  pwa: {
+    icon: {
+         fileName: 'app-icon.png',
+    },
+  },
 })

@@ -1,0 +1,11 @@
+{
+  "name": "lbpinteweb",
+  "short_name": "lbpinteweb",
+  "description": "## Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E24F55",
+  "lang": "en"
+}
