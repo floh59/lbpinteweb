@@ -23,7 +23,7 @@ export default theme({
   ],
   pwa: {
     icon: {
-         fileName: 'app-icon.png',
+         fileName: 'favicon.ico',
     },
   },
 })
